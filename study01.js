@@ -2,7 +2,7 @@
 // การแสดงผลข้อมูลที่ console (terminal) และ การเขียนคอมเม้นต์ห
 //------------------------------
 // console.log
-console.log('AAAA') //single quote
+console.log('aaaa') //single quote
 console.log("BBBB") //double quote
 console.log(`CCCC`) //Alt+9+6  (backtick)
 console.log(123)
